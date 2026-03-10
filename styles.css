@@ -1,3 +1,74 @@
+<<<<<<< HEAD
+<<<<<<<< HEAD:styles.css
+body{
+    font-family: Arial, sans-serif;
+    color: #35008b
+    background-color: #f9f9f9;
+    margin: 0;
+    padding: 0
+    line-height: 1.6;
+}
+header{
+    background-color: #da3294;
+    color: white
+    padding: 20px
+    text-align: center;
+}
+
+header h1 {
+    margin: 0;
+}
+nav a {
+    color: rgb(214, 139, 186);
+    text-decoration: none;
+    margin: 0 10px;
+}
+nav a:hover {
+    text-decoration: underline;
+}
+main{
+    padding: 20px;
+    max-width: 800px;
+    margin: 0 auto
+}
+main img{
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 20px 0;
+}
+footer{
+    background-color: #be2d7d;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+p { 
+    font-size: 1.1em; 
+} 
+
+a { 
+    color: #4959eb; 
+
+    text-decoration: none; 
+
+} 
+
+ 
+
+a:hover { 
+
+    text-decoration: underline; 
+
+} 
+
+
+========
+=======
+>>>>>>> 306e48741e75ce864b9ade163eb481da61f82eb2
 body{
     font-family: Arial, sans-serif;
     color: #333
@@ -64,3 +135,7 @@ a:hover {
 } 
 
 
+<<<<<<< HEAD
+>>>>>>>> 306e48741e75ce864b9ade163eb481da61f82eb2:style.css
+=======
+>>>>>>> 306e48741e75ce864b9ade163eb481da61f82eb2
